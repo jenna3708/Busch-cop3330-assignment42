@@ -1,0 +1,9 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class exercise42
+
+exercise42 <|-- exercise41_input.txt
+
+
+@enduml
